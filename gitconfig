@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lubomir.rajter@gmail.com
+	name = Lubomir Rajter
